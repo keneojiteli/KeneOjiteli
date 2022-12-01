@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kene
 - 👀 I’m interested in Cybersecurity and specializing in cloud security
-- 🌱 I’m currently learning AWS (biiiiiiig fan of AWS) and Cloud/Devops (you have to know the cloud before you can secure it.....right), an ALX cloud devops student
+- 🌱 I’m currently learning AWS (biiiiiiig fan of AWS) and Cloud/Devops (you have to know the cloud before you can secure it.....right), an ALX/Udacity cloud devops student
 - 💞️ I’m actively searching for internship / entry-level cloud roles 
 - 📫 I can be reached via ojitelikenechukwu@gmail.com
 
