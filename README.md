@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kene
 - 👀 I’m interested in Cloud, DevOps, and Security
-- 🌱 I’m currently learning AWS (biiiiiiig fan of AWS, 2x AWS Certified) and Cloud/Devops
+- 🌱 I’m currently learning AWS (biiiiiiig fan of AWS, 2x AWS Certified), Azure and Cloud/Devops
 - 💞️ I’m actively searching for internship or entry-level cloud / DevOps roles 
 - 📫 I can be reached via ojitelikenechukwu@gmail.com
 
