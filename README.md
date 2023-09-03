@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ojitelikenechukwu@gmail.com**
 
-- ⚡ Fun fact **I love Horror movies**
+- ⚡ Fun fact **I am a huge fan of Crime and suspense movies/series**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
