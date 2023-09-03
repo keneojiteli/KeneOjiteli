@@ -17,7 +17,9 @@
 
 - ⚡ Fun fact **I am a huge fan of Crime and suspense movies/series**
 
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)(https://dev.to/keneojiteli)
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://dev.to/keneojiteli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="keneojiteli" height="30" width="40" /></a>
 <a href="https://twitter.com/kenealfayeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenealfayeed" height="30" width="40" /></a>
