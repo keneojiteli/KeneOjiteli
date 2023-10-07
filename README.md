@@ -9,7 +9,7 @@
 
 - 🔭 I’m interested in **SRE, Cloud & DevOps Engineering**
 
-- 🌱 I’m currently learning **Technologies and Concepts relating to SRE**
+- 🌱 I’m currently learning **Technologies and Concepts relating to SRE with a focus on Kubernetes and Observability**
 
 - 👯 I’m looking to collaborate on **SRE and Cloud-Native Projects**
 
