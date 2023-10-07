@@ -5,13 +5,13 @@
 
 
 <!--<h1 align="center">Hi 👋, I'm Kenechukwu Ojiteli</h1>-->
-<h3 align="center">I am constantly improving my knowledge on everything related to DevOps, SRE, and Cloud Engineering</h3>
+<h3 align="center">I am a Site Reliability Engineer with a focus on Kubernetes and Observability, Passionate about using technology to solve real-world problems.</h3>
 
-- 🔭 I’m interested in **SRE, Cloud & DevOps Engineering**
+- 🔭 I am constantly improving my knowledge on everything related to **SRE, Cloud & DevOps Engineering**
 
-- 🌱 I’m currently learning **Technologies and Concepts relating to SRE with a focus on Kubernetes and Observability**
+- 🌱 I have  experience working with **SRE Technologies**
 
-- 👯 I’m looking to collaborate on **SRE and Cloud-Native Projects**
+- 👯 I’m looking to collaborate on **Cloud-Native Projects**
 
 - 📫 How to reach me **ojitelikenechukwu@gmail.com**
 
