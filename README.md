@@ -5,13 +5,13 @@
 
 
 <!--<h1 align="center">Hi 👋, I'm Kenechukwu Ojiteli</h1>-->
-<h3 align="center">I am a Site Reliability Engineer with a focus on Kubernetes and Observability, Passionate about using technology to solve real-world problems.</h3>
+<h3 align="center">I am a Site Reliability Engineer with a focus on Kubernetes and Observability, currently exploring the cloud-native ecosystem. </h3>
 
 - 🔭 I am constantly improving my knowledge on everything related to **SRE, Cloud & DevOps Engineering**
 
 - 🌱 I have  experience working with **SRE Technologies**
 
-- 👯 I’m looking to collaborate on **Cloud-Native Projects**
+- 👯 I’m looking to collaborate on **Cloud-Native Projects and contribute to Open source**
 
 - 📫 How to reach me **ojitelikenechukwu@gmail.com**
 
