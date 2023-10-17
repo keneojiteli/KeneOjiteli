@@ -5,7 +5,7 @@
 
 
 <!--<h1 align="center">Hi 👋, I'm Kenechukwu Ojiteli</h1>-->
-<h3 align="center">I am a Site Reliability Engineer with a focus on Kubernetes and Observability, currently exploring the cloud-native ecosystem. </h3>
+<h3 align="center">I am a Site Reliability Engineer with focus on Kubernetes and Observability, currently exploring the cloud-native ecosystem. </h3>
 
 - 🔭 I am constantly improving my knowledge on everything related to **SRE, Cloud & DevOps Engineering**
 
