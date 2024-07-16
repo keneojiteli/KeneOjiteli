@@ -5,17 +5,17 @@
 
 
 <!--<h1 align="center">Hi 👋, I'm Kenechukwu Ojiteli</h1>-->
-<h3 align="center">I am a Site Reliability Engineer with focus on Kubernetes and Observability, currently exploring the cloud-native ecosystem. </h3>
+<h3 align="center">I am a DevOps engineer focusing on Kubernetes and Security, currently exploring the cloud-native ecosystem. </h3>
 
-- 🔭 I am constantly improving my knowledge on everything related to **SRE, Cloud & DevOps Engineering**
+- 🔭 I am constantly improving my knowledge on everything related to **Cloud & DevOps Engineering (with security in mind)**
 
-- 🌱 I have  experience working with **SRE Technologies**
+- 🌱 I have  experience working with **DevOps Technologies**
 
 - 👯 I’m looking to collaborate on **Cloud-Native Projects and contribute to Open source**
 
-- 📫 How to reach me **ojitelikenechukwu@gmail.com**
+- 📫 How to reach me **kenechukwuojiteli@gmail.com**
 
-- ⚡ Fun fact **I am a huge fan of Crime and suspense movies/series**
+- ⚡ Fun fact **I am a huge fan of crime and suspense movies/series**
 
 <h3 align="left">Connect with me:</h3>
 
