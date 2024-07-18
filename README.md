@@ -7,7 +7,10 @@
 <!--<h1 align="center">Hi 👋, I'm Kenechukwu Ojiteli</h1>-->
 <h3 align="center">I am a DevOps engineer focusing on Kubernetes and Security, currently exploring the cloud-native ecosystem. </h3>
 
-- 🔭 I am constantly improving my knowledge on everything related to **Cloud & DevOps Engineering and exploring the exciting realm of Application Security and DevSecOps**
+<h5>
+    
+- 🔭 I'm constantly improving my knowledge on everything related to **Cloud & DevOps Engineering and exploring the exciting realm of Application Security &
+    DevSecOps**
 
 - 🌱 I have  experience working with **DevOps Technologies**
 
@@ -16,7 +19,7 @@
 - 📫 How to reach me **kenechukwuojiteli@gmail.com**
 
 - ⚡ Fun fact **I am a huge fan of crime and suspense movies/series**
-
+</h5>
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenechukwuojiteli)
