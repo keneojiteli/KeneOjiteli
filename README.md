@@ -7,7 +7,7 @@
 <!--<h1 align="center">Hi 👋, I'm Kenechukwu Ojiteli</h1>-->
 <h3 align="center">I am a DevOps engineer focusing on Kubernetes and Security, currently exploring the cloud-native ecosystem. </h3>
 
-- 🔭 I am constantly improving my knowledge on everything related to **Cloud & DevOps Engineering (with security in mind)**
+- 🔭 I am constantly improving my knowledge on everything related to **Cloud & DevOps Engineering and exploring the exciting realm of Application Security and DevSecOps**
 
 - 🌱 I have  experience working with **DevOps Technologies**
 
