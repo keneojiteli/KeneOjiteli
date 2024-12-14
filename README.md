@@ -5,14 +5,14 @@
 
 
 <!--<h1 align="center">Hi 👋, I'm Kenechukwu Ojiteli</h1>-->
-<h3 align="center">I am a DevOps engineer focusing on Kubernetes and Security, currently exploring the exciting realm of Application Security &
+<h3 align="center">I am a DevOps engineer focusing on DevSecOps, currently exploring the exciting realm of Application Security &
     DevSecOps. </h3>
 
 <h5>
     
-- 🔭 I'm constantly improving my knowledge on everything related to **Cloud & DevOps Engineering (with security in mind)**
+- 🔭 I'm constantly improving my knowledge on everything related to **DevSecOps Engineering (implementing start-left / shift-left mentality in the SDLC)**
 
-- 🌱 I have  experience working with **DevOps Technologies**
+- 🌱 I have  experience working with **DevOps Technologies and securing CICD pipelines**
 
 - 👯 I’m looking to collaborate on **Cloud-Native Projects and contribute to Open source**
 
