@@ -5,7 +5,7 @@
 
 
 <!--<h1 align="center">Hi 👋, I'm Kenechukwu Ojiteli</h1>-->
-<h3 align="center">I am a DevOps engineer focusing on DevSecOps, currently exploring the exciting realm of Application Security &
+<h3 align="center">I am a DevOps engineer, currently exploring the exciting realm of Application Security &
     DevSecOps. </h3>
 
 <h5>
