@@ -9,11 +9,13 @@
 
 <h5>
     
-- 🔭 I'm constantly improving my knowledge on everything related to **DevSecOps Engineering (implementing start-left / shift-left mentality in the SDLC)**
+<!--- 🔭 I'm constantly improving my knowledge on everything related to **DevSecOps Engineering (implementing start-left / shift-left mentality in the SDLC)**-->
+- 🔭 I'm constantly improving my knowledge on everything related to **DevOps, Security, and Cloud**
 
 - 🌱 I have  experience working with **DevOps Technologies and securing CICD pipelines**
 
-- 👯 I’m looking to collaborate on **Cloud-Native Projects and contribute to Open source**
+<!--- 👯 I’m looking to collaborate on **Cloud-Native Projects and contribute to Open source**-->
+- 👯 I’m looking to take a deeper dive into **Cloud-Native and contribute to Open source**
 
 - 📫 How to reach me **kenechukwuojiteli@gmail.com**
 
