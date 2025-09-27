@@ -12,7 +12,7 @@
 <!--- 🔭 I'm constantly improving my knowledge on everything related to **DevSecOps Engineering (implementing start-left / shift-left mentality in the SDLC)**-->
 - 🔭 I'm constantly improving my knowledge on everything related to **DevOps, Security, and Cloud**
 
-- 🌱 I have  experience working with **DevOps/Cloud--Native Technologies and securing CICD pipelines**
+- 🌱 I have  experience working with **DevOps/Cloud-Native Technologies and securing CICD pipelines**
 
 <!--- 👯 I’m looking to collaborate on **Cloud-Native Projects and contribute to Open source**-->
 - 👯 I’m  currently working on and documenting **End-to-end Cloud-Native projects**
