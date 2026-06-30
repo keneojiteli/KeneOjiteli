@@ -5,7 +5,7 @@
 
 
 <!--<h1 align="center">Hi 👋, I'm Kenechukwu Ojiteli</h1>-->
-<h3 align="center">I am a DevOps engineer, currently exploring the exciting realm of DevSecOps. </h3>
+<h3 align="center">I am a DevOps engineer, currently building production-grade projects. </h3>
 
 <h5>
     
@@ -15,7 +15,7 @@
 - 🌱 I have  experience working with **DevOps/Cloud-Native Technologies and securing CICD pipelines**
 
 <!--- 👯 I’m looking to collaborate on **Cloud-Native Projects and contribute to Open source**-->
-- 👯 I’m  currently working on and documenting **End-to-end Cloud-Native projects**
+- 👯 I’m  currently working on and documenting **End-to-end production-grade Cloud-Native projects**
 
 - 📫 How to reach me **kenechukwuojiteli@gmail.com**
 
